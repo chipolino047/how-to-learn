@@ -48,6 +48,7 @@
 
 .header__link {
     text-decoration: none;
+    color: #2f80ed;
 }
 
 .header__main-illustration {
@@ -210,6 +211,7 @@
     line-height: 51px;
     font-size: 24px;
     font-weight: normal;
+    color: #2f80ed;
 }
 
 .kaufman {
@@ -333,14 +335,12 @@
     font-weight: 600;
     display: flex;
     flex-wrap: nowrap;
-    justify-content: center;
-    border: 1px solid red;
+
 }
 
 .footer__column-links {
     color: #f2f2f2;
     text-decoration: none;
-    border: 1px solid red;
     margin: 0;
     padding: 0;
 }
@@ -348,14 +348,14 @@
 .footer__column-link {
     color: #f2f2f2;
     text-decoration: none;
-    margin: 10px 0 0 10px;
+    margin: 0;
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
 }
 
 .footer__social-icon {
-    margin: 0;
+    margin: 0 10px 0 0;
     width: 16px;
     height: 16px;
     background-size: cover;
