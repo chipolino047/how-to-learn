@@ -4,6 +4,6 @@
 }
 
 .header__link:hover {
-opacity: 0.6;
-transition: opacity .7s ease;
+  opacity: 0.6;
+  transition: opacity .7s ease;
 }

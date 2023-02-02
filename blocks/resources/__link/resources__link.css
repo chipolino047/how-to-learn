@@ -1,11 +1,11 @@
-.resoursec__link {
+.resources__link {
+  margin: 0;
   width: 270px;
   height: 38px;
-  background-size: cover;
-  margin: 0;
+  text-align: center;
 }
 
-.resoursec__link:hover {
+.resources__link:hover {
   opacity: 0.6;
   transition: opacity .7s ease;
 }
